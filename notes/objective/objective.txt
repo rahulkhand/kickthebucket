@@ -1,0 +1,27 @@
+Kick a bucket such that it lands upside down over a fence pole.
+
+Diagram of sample gameplay
+
+
+--------------------------------------------------
+|												  |
+|												  |
+|		---				- -						  |
+|		|  |		   /	\					  |
+|		----		  /		 \					  |
+|		-|-			 /		  \					  |
+|		/ \		|_|								  |
+|								_				  |
+|							   _|_				  |
+|							   _|_				  |
+|												  |
+|												  |
+--------------------------------------------------
+
+
+Expansions:
+- Changes on bucket explode and redirect trajectory.
+- Barriers that require minimum impact velocity to break through varying surfaces
+	(walls that bounce the bucket, change rotation, etc.)
+- Rockets on bucket to accelerate/deccelerate rotational speed
+	(add hypnosis spiral on bucket to disorient monsters that may want to eat it)
