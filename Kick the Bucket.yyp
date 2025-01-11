@@ -35,8 +35,12 @@
   "name":"Kick the Bucket",
   "resources":[
     {"id":{"name":"objective","path":"notes/objective/objective.yy",},},
+    {"id":{"name":"flooring_obj","path":"objects/flooring_obj/flooring_obj.yy",},},
+    {"id":{"name":"player_obj","path":"objects/player_obj/player_obj.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
     {"id":{"name":"castle_sprite","path":"sprites/castle_sprite/castle_sprite.yy",},},
+    {"id":{"name":"collision_sprite","path":"sprites/collision_sprite/collision_sprite.yy",},},
+    {"id":{"name":"rahul_base_sprite","path":"sprites/rahul_base_sprite/rahul_base_sprite.yy",},},
     {"id":{"name":"castle_tiles","path":"tilesets/castle_tiles/castle_tiles.yy",},},
   ],
   "resourceType":"GMProject",
