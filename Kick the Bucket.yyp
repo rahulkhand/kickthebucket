@@ -36,7 +36,7 @@
   "resources":[
     {"id":{"name":"objective","path":"notes/objective/objective.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"id":{"name":"PlatformTile","path":"tilesets/PlatformTile/PlatformTile.yy",},},
+    {"id":{"name":"castle_tiles","path":"tilesets/castle_tiles/castle_tiles.yy",},},
   ],
   "resourceType":"GMProject",
   "resourceVersion":"2.0",

@@ -1,14 +1,14 @@
 {
   "$GMTileSet":"v1",
-  "%Name":"PlatformTile",
+  "%Name":"castle_tiles",
   "autoTileSets":[],
   "macroPageTiles":{
     "SerialiseHeight":0,
     "SerialiseWidth":0,
     "TileSerialiseData":[],
   },
-  "name":"PlatformTile",
-  "out_columns":0,
+  "name":"castle_tiles",
+  "out_columns":12,
   "out_tilehborder":2,
   "out_tilevborder":2,
   "parent":{
@@ -17,7 +17,10 @@
   },
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
-  "spriteId":null,
+  "spriteId":{
+    "name":"sprite1",
+    "path":"sprites/sprite1/sprite1.yy",
+  },
   "spriteNoExport":false,
   "textureGroupId":{
     "name":"Default",
@@ -31,5 +34,5 @@
   "tileWidth":16,
   "tilexoff":0,
   "tileyoff":0,
-  "tile_count":0,
+  "tile_count":144,
 }
