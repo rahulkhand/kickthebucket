@@ -18,8 +18,8 @@
   "resourceType":"GMTileSet",
   "resourceVersion":"2.0",
   "spriteId":{
-    "name":"sprite1",
-    "path":"sprites/sprite1/sprite1.yy",
+    "name":"castle_sprite",
+    "path":"sprites/castle_sprite/castle_sprite.yy",
   },
   "spriteNoExport":false,
   "textureGroupId":{
